@@ -1,0 +1,5 @@
+To run type "npm run dev". 
+
+To build server babel bundle type --> "npm run dev:build-server".
+
+To build client babel bundle type --> "npm run dev:build-client".
